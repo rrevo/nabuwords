@@ -1,0 +1,5 @@
+## Build
+
+```console
+make
+```

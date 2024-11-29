@@ -1,0 +1,18 @@
+=  Dune reference
+Nabu words
+:doctype: book
+:toc:
+:pdf-page-size: [4in, 7in]
+:pdf-page-margin: [0.5in, 0.3in]
+:pdf-version: 1.7
+
+[preface]
+= Preface
+
+Happy reading!
+
+= Endnotes
+
+== Thanks!
+
+The end.
