@@ -1,0 +1,412 @@
+
+== Chapter 15
+
+[%unbreakable]
+====
+deducing
+
+To decide by reasoning.
+====
+
+[%unbreakable]
+====
+air
+
+To express.
+====
+
+[%unbreakable]
+====
+candor
+
+Quality of being honest.
+====
+
+[%unbreakable]
+====
+latitude
+
+Open for interpretation.
+====
+
+[%unbreakable]
+====
+somnolent
+
+Sleepy.
+====
+
+[%unbreakable]
+====
+sneered
+
+To show a lack of respect.
+====
+
+[%unbreakable]
+====
+monolithic
+
+Very large.
+====
+
+[%unbreakable]
+====
+poised
+
+Be ready.
+====
+
+[%unbreakable]
+====
+garbed
+
+Dressed in a specific way.
+====
+
+[%unbreakable]
+====
+brooks
+
+tolerate.
+====
+
+[%unbreakable]
+====
+desist
+
+To stop.
+====
+
+[%unbreakable]
+====
+allowances
+
+Pay some money.
+====
+
+[%unbreakable]
+====
+curt
+
+Quick and rude.
+====
+
+[%unbreakable]
+====
+crystallized
+
+To become clear.
+====
+
+[%unbreakable]
+====
+pertinent
+
+Relevant.
+====
+
+[%unbreakable]
+====
+porous
+
+Having holes.
+====
+
+[%unbreakable]
+====
+osmotic
+
+Gradual transfer of liquid.
+====
+
+[%unbreakable]
+====
+thimbleful
+
+A small quantity.
+====
+
+include::../../terminology/erg.adoc[]
+
+[%unbreakable]
+====
+bespeaks
+
+Shows evidence of.
+====
+
+[%unbreakable]
+====
+chasms
+
+A deep hole.
+====
+
+[%unbreakable]
+====
+pellet
+
+A small ball.
+====
+
+[%unbreakable]
+====
+minstrel
+
+An entertainer.
+====
+
+[%unbreakable]
+====
+grubbing
+
+To dig for something.
+====
+
+[%unbreakable]
+====
+outcroppings
+
+A rock formation.
+====
+
+[%unbreakable]
+====
+teem
+
+To be full of.
+====
+
+[%unbreakable]
+====
+billowing
+
+Move as a large cloud.
+====
+
+[%unbreakable]
+====
+sash
+
+A long piece of cloth.
+====
+
+[%unbreakable]
+====
+complement
+
+Members of a group.
+====
+
+[%unbreakable]
+====
+interposed
+
+To insert.
+====
+
+[%unbreakable]
+====
+amplification
+
+To make something bigger.
+====
+
+[%unbreakable]
+====
+keyed up
+
+Nervous, excited.
+====
+
+[%unbreakable]
+====
+timbre
+
+The quality of a sound.
+====
+
+[%unbreakable]
+====
+sneered
+
+To show a lack of respect.
+====
+
+[%unbreakable]
+====
+epitaph
+
+A phrase on a tombstone.
+====
+
+[%unbreakable]
+====
+centrifugally
+
+Moving away from the center.
+====
+
+[%unbreakable]
+====
+seismic
+
+Relating to earthquakes.
+====
+
+include::../../terminology/carryall.adoc[]
+
+[%unbreakable]
+====
+crescent
+
+Curved shape like the moon.
+====
+
+[%unbreakable]
+====
+cresting
+
+Top of.
+====
+
+[%unbreakable]
+====
+intercept
+
+To stop something.
+====
+
+[%unbreakable]
+====
+harness
+
+Belts to hold something.
+====
+
+[%unbreakable]
+====
+crackled
+
+To make a sharp noise.
+====
+
+[%unbreakable]
+====
+banked
+
+To tilt.
+====
+
+[%unbreakable]
+====
+snout
+
+A long nose.
+====
+
+[%unbreakable]
+====
+belching
+
+Push out with force.
+====
+
+[%unbreakable]
+====
+comply
+
+To follow an order.
+====
+
+[%unbreakable]
+====
+assailed
+
+To attack.
+====
+
+[%unbreakable]
+====
+pungent
+
+Strong smell.
+====
+
+[%unbreakable]
+====
+dwarfed
+
+To make small.
+====
+
+[%unbreakable]
+====
+gnats
+
+Small flying insects.
+====
+
+[%unbreakable]
+====
+slogging
+
+To work hard.
+====
+
+[%unbreakable]
+====
+abrasive
+
+Harsh.
+====
+
+[%unbreakable]
+====
+carrion
+
+Dead and decaying flesh.
+====
+
+[%unbreakable]
+====
+carcass
+
+Body of a dead animal.
+====
+
+[%unbreakable]
+====
+rasping
+
+Make a rough sound.
+====
+
+[%unbreakable]
+====
+outwit
+
+To defeat by being clever.
+====
+
+[%unbreakable]
+====
+subterfuge
+
+A trick.
+====
+
+[%unbreakable]
+====
+hath
+
+Have
+====
+
+[%unbreakable]
+====
+ordained
+
+To order.
+====

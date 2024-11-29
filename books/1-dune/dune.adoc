@@ -1,5 +1,6 @@
 =  Dune reference
 Nabu words
+Nov 16 2024: v2.2
 :doctype: book
 :toc:
 :pdf-page-size: [4in, 7in]
@@ -9,10 +10,132 @@ Nabu words
 [preface]
 = Preface
 
+Welcome to the *Nabu words* vocabulary reference for *Dune*.
+
+Read Dune faster by quickly getting precise meanings of complex words. The words are listed in the order they appear in the text.
+
+Nabu word references are optimized for viewing on mobile devices with a clean and simple interface.
+
 Happy reading!
+
+'''
+
+*Dune* is a 1965 epic science fiction novel by American author Frank Herbert. In this reference, we will cover words from the first book in the spectacular saga.
+
+== Copyright
+
+=== Nabu Words
+
+This reference is copyright by Nabu Words.
+
+=== Dune
+
+Dune is copyright by the original owners and publishers. This vocabulary reference is not a substitute for the original book.
+
+= Book 1
+
+include::book1/ch01.adoc[]
+
+include::book1/ch02.adoc[]
+
+include::book1/ch03.adoc[]
+
+include::book1/ch04.adoc[]
+
+include::book1/ch05.adoc[]
+
+include::book1/ch06.adoc[]
+
+include::book1/ch07.adoc[]
+
+include::book1/ch08.adoc[]
+
+include::book1/ch09.adoc[]
+
+include::book1/ch10.adoc[]
+
+include::book1/ch11.adoc[]
+
+include::book1/ch12.adoc[]
+
+include::book1/ch13.adoc[]
+
+include::book1/ch14.adoc[]
+
+include::book1/ch15.adoc[]
+
+include::book1/ch16.adoc[]
+
+include::book1/ch17.adoc[]
+
+include::book1/ch18.adoc[]
+
+include::book1/ch19.adoc[]
+
+include::book1/ch20.adoc[]
+
+include::book1/ch21.adoc[]
+
+include::book1/ch22.adoc[]
+
+= Book 2
+
+include::book2/ch23.adoc[]
+
+include::book2/ch24.adoc[]
+
+include::book2/ch25.adoc[]
+
+include::book2/ch26.adoc[]
+
+include::book2/ch27.adoc[]
+
+include::book2/ch28.adoc[]
+
+include::book2/ch29.adoc[]
+
+include::book2/ch30.adoc[]
+
+include::book2/ch31.adoc[]
+
+include::book2/ch32.adoc[]
+
+include::book2/ch33.adoc[]
+
+include::book2/ch34.adoc[]
+
+include::book2/ch35.adoc[]
+
+include::book2/ch36.adoc[]
+
+include::book2/ch37.adoc[]
+
+= Book 3
+
+include::book3/ch38.adoc[]
+
+include::book3/ch39.adoc[]
+
+include::book3/ch40.adoc[]
+
+include::book3/ch41.adoc[]
+
+include::book3/ch42.adoc[]
+
+include::book3/ch43.adoc[]
+
+include::book3/ch44.adoc[]
+
+include::book3/ch45.adoc[]
+
+include::book3/ch46.adoc[]
+
+include::book3/ch47.adoc[]
+
+include::book3/ch48.adoc[]
 
 = Endnotes
 
-== Thanks!
+== Feedback
 
-The end.
+Please email us at support@nabuwords.com or visit https://www.dune.nabuwords.com for feedback and updates.

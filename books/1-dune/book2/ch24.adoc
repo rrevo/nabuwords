@@ -1,0 +1,67 @@
+
+== Chapter 24
+
+[%unbreakable]
+====
+rankled
+
+To cause anger.
+====
+
+include::../../terminology/erg.adoc[]
+
+[%unbreakable]
+====
+promissory
+
+A promise to pay.
+====
+
+[%unbreakable]
+====
+vendetta
+
+A prolonged fights between groups.
+====
+
+[%unbreakable]
+====
+disconcerting
+
+Cause worry.
+====
+
+[%unbreakable]
+====
+lament
+
+To feel sorrow.
+====
+
+[%unbreakable]
+====
+naivete
+
+Lack of experience.
+====
+
+[%unbreakable]
+====
+reverence
+
+Deep respect.
+====
+
+[%unbreakable]
+====
+inept
+
+Not skilled.
+====
+
+[%unbreakable]
+====
+cupping
+
+To hold.
+====

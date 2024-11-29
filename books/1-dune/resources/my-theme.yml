@@ -1,0 +1,12 @@
+extends: default
+title-page:
+  background-image: image:dune-cover.jpg[fit=cover]
+  align: right
+  title:
+    font-color: #f2f0ef
+    font-size: 2.1em
+    top: 75%
+  authors:
+    font-color: #f2f0ef
+  revision:
+    font-color: #d3d3d3

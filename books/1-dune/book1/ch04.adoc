@@ -1,0 +1,295 @@
+
+== Chapter 4
+
+[%unbreakable]
+====
+troubadour
+
+A poet who writes about love.
+====
+
+include::../../terminology/mentat.adoc[]
+
+[%unbreakable]
+====
+treachery
+
+Betrayal.
+====
+
+[%unbreakable]
+====
+Proctor
+
+A supervisor of students.
+====
+
+include::../../terminology/coriolis.adoc[]
+
+[%unbreakable]
+====
+graben and sink
+
+Villages in Arrakis.
+====
+
+[%unbreakable]
+====
+singsong
+
+A way of speaking with rising and falling tones.
+====
+
+[%unbreakable]
+====
+register
+
+Make sense.
+====
+
+[%unbreakable]
+====
+woolgathering
+
+Daydreaming.
+====
+
+[%unbreakable]
+====
+ordeal
+
+A painful experience.
+====
+
+[%unbreakable]
+====
+inhibitions
+
+Feeling of self-consciousness.
+====
+
+[%unbreakable]
+====
+spouted
+
+Speak in a boring way.
+====
+
+[%unbreakable]
+====
+hearth
+
+Symbol of home.
+====
+
+[%unbreakable]
+====
+renegade
+
+A person who betrays their own group.
+====
+
+[%unbreakable]
+====
+sinewy
+
+Strong and lean.
+====
+
+[%unbreakable]
+====
+veer
+
+Change direction suddenly.
+====
+
+include::../../terminology/baliset.adoc[]
+
+[%unbreakable]
+====
+rapiers
+
+Long sharp weapon.
+====
+
+[%unbreakable]
+====
+bodkins
+
+A small sharp knife.
+====
+
+[%unbreakable]
+====
+kindjals
+
+Double-edged dagger.
+====
+
+[%unbreakable]
+====
+inkvine
+
+Fictional plan used as a whip.
+====
+
+[%unbreakable]
+====
+imp
+
+Mischievous child.
+====
+
+[%unbreakable]
+====
+deviltry
+
+Evil and mean behavior.
+====
+
+[%unbreakable]
+====
+bawdy
+
+Indecent humor.
+====
+
+[%unbreakable]
+====
+ditties
+
+A short simple song.
+====
+
+[%unbreakable]
+====
+hellfiend
+
+Demon.
+====
+
+[%unbreakable]
+====
+aguile
+
+Able to move quickly and easily.
+====
+
+[%unbreakable]
+====
+dolt
+
+A silly person.
+====
+
+[%unbreakable]
+====
+intoned
+
+Say in a slow voice.
+====
+
+[%unbreakable]
+====
+chagrined
+
+Embarrassed.
+====
+
+[%unbreakable]
+====
+apt
+
+Suitable.
+====
+
+[%unbreakable]
+====
+parrying
+
+Block an attack.
+====
+
+[%unbreakable]
+====
+feint
+
+Make a deceptive movement.
+====
+
+[%unbreakable]
+====
+jugular
+
+The main vein in the neck.
+====
+
+[%unbreakable]
+====
+groin
+
+The area between the abdomen and the thigh.
+====
+
+[%unbreakable]
+====
+fallacy
+
+A mistaken belief.
+====
+
+[%unbreakable]
+====
+pruned
+
+Trim by cutting away.
+====
+
+[%unbreakable]
+====
+sinister
+
+Evil.
+====
+
+[%unbreakable]
+====
+solemn
+
+Serious.
+====
+
+[%unbreakable]
+====
+En garde
+
+On guard.
+====
+
+[%unbreakable]
+====
+grafted
+
+Join two things together.
+====
+
+[%unbreakable]
+====
+elfin
+
+Looking small and gentle.
+====
+
+[%unbreakable]
+====
+pansies
+
+A type of flower.
+====
+
+[%unbreakable]
+====
+entretisser
+
+To weave together.
+====

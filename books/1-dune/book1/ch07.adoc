@@ -1,0 +1,298 @@
+
+== Chapter 7
+
+[%unbreakable]
+====
+fruition
+
+The completion of a plan.
+====
+
+[%unbreakable]
+====
+prophecy
+
+A prediction of the future.
+====
+
+[%unbreakable]
+====
+canto and respondu
+
+Fictional prayer rituals.
+====
+
+[%unbreakable]
+====
+Panoplia Propheticus
+
+A complete set of superstitious beliefs by the Bene Gesserit.
+====
+
+[%unbreakable]
+====
+anachronism
+
+Old-fashioned.
+====
+
+[%unbreakable]
+====
+buttressed
+
+Support or strengthen.
+====
+
+[%unbreakable]
+====
+megalopolis
+
+Area including large cities.
+====
+
+[%unbreakable]
+====
+twine
+
+A strong thread.
+====
+
+[%unbreakable]
+====
+frayed
+
+Worn out.
+====
+
+[%unbreakable]
+====
+plaque
+
+Ornamental metal plate.
+====
+
+[%unbreakable]
+====
+latitudes
+
+Distance from the equator.
+====
+
+[%unbreakable]
+====
+pang
+
+A sudden sharp pain.
+====
+
+[%unbreakable]
+====
+woodsmoke
+
+Smoke from burning wood.
+====
+
+[%unbreakable]
+====
+stateliness
+
+Dignified manner.
+====
+
+[%unbreakable]
+====
+finality
+
+Quality of being complete.
+====
+
+[%unbreakable]
+====
+indulge
+
+To allow something.
+====
+
+[%unbreakable]
+====
+overtones
+
+A subtle idea.
+====
+
+[%unbreakable]
+====
+truce
+
+A temporary peace.
+====
+
+[%unbreakable]
+====
+regimen
+
+A prescribed course.
+====
+
+[%unbreakable]
+====
+intrigues
+
+Secret plans.
+====
+
+[%unbreakable]
+====
+opt
+
+To choose.
+====
+
+[%unbreakable]
+====
+disdainful
+
+Showing strong dislike.
+====
+
+[%unbreakable]
+====
+matador
+
+A bullfighter.
+====
+
+[%unbreakable]
+====
+magenta
+
+A deep purplish red color.
+====
+
+[%unbreakable]
+====
+desiccated
+
+Dried up.
+====
+
+[%unbreakable]
+====
+prune
+
+A dried plum.
+====
+
+[%unbreakable]
+====
+concubine
+
+A woman who lives with a man, but who is not a wife.
+====
+
+[%unbreakable]
+====
+cistern
+
+A tank for storing water.
+====
+
+[%unbreakable]
+====
+cackled
+
+To laugh in a loud way.
+====
+
+[%unbreakable]
+====
+sham
+
+A lie.
+====
+
+[%unbreakable]
+====
+petit
+
+Small.
+====
+
+[%unbreakable]
+====
+bodice
+
+Upper part of a dress.
+====
+
+[%unbreakable]
+====
+sheath
+
+Cover for a knife.
+====
+
+[%unbreakable]
+====
+kindjal
+
+A short dagger.
+====
+
+include::../../terminology/crysknife.adoc[]
+
+[%unbreakable]
+====
+precipitate
+
+To cause something to happen.
+====
+
+[%unbreakable]
+====
+coagulation
+
+Conversion of liquid to solid.
+====
+
+[%unbreakable]
+====
+catchphrase
+
+A popular phrase or saying.
+====
+
+[%unbreakable]
+====
+incantations
+
+Magical words.
+====
+
+[%unbreakable]
+====
+fixative
+
+A substance used to fix colors.
+====
+
+[%unbreakable]
+====
+tempo
+
+Speed.
+====
+
+[%unbreakable]
+====
+foreboding
+
+A feeling of bad things to come.
+====
+
+[%unbreakable]
+====
+castellated
+
+Having a wall with openings for shooting through.
+====

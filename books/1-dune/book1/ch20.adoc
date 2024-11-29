@@ -1,0 +1,25 @@
+
+== Chapter 20
+
+include::../../terminology/bashar.adoc[]
+
+[%unbreakable]
+====
+trussed
+
+Tied up.
+====
+
+[%unbreakable]
+====
+foretaste
+
+A taste of something to come.
+====
+
+[%unbreakable]
+====
+carnage
+
+The killing of many people.
+====

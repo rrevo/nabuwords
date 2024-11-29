@@ -1,0 +1,109 @@
+
+== Chapter 22
+
+[%unbreakable]
+====
+Citadel
+
+A fortress.
+====
+
+[%unbreakable]
+====
+gall
+
+Make angry.
+====
+
+[%unbreakable]
+====
+minutiae
+
+Small details.
+====
+
+[%unbreakable]
+====
+datum
+
+Single piece of information.
+====
+
+[%unbreakable]
+====
+silhouette
+
+Outline of a shape.
+====
+
+[%unbreakable]
+====
+exultation
+
+A feeling of joy.
+====
+
+[%unbreakable]
+====
+sphincter
+
+Opening.
+====
+
+include::../../terminology/al-lat.adoc[]
+
+[%unbreakable]
+====
+constellation
+
+A group of stars.
+====
+
+[%unbreakable]
+====
+stratum
+
+A layer.
+====
+
+[%unbreakable]
+====
+undulant
+
+Appearance like waves.
+====
+
+[%unbreakable]
+====
+implacable
+
+Not able to be calmed.
+====
+
+[%unbreakable]
+====
+insidious
+
+Harmful in a subtle way.
+====
+
+[%unbreakable]
+====
+broodmare
+
+Female horse used for breeding.
+====
+
+[%unbreakable]
+====
+callus
+
+Hardened skin.
+====
+
+[%unbreakable]
+====
+jihad
+
+Holy war.
+====

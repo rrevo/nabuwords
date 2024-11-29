@@ -1,0 +1,300 @@
+== Chapter 2
+
+[%unbreakable]
+====
+impetus
+
+The force or energy with which a body moves.
+====
+
+[%unbreakable]
+====
+ellipsoid
+
+A three-dimensional oval shape.
+====
+
+[%unbreakable]
+====
+petrified
+
+Organic matter changed into a stony substance.
+====
+
+[%unbreakable]
+====
+Veriform
+
+worm shaped from Latin.
+====
+
+[%unbreakable]
+====
+effeminate
+
+Having feminine characteristics.
+====
+
+[%unbreakable]
+====
+basso
+
+A low deep male voice.
+====
+
+[%unbreakable]
+====
+tenor
+
+A high adult male voice.
+====
+
+[%unbreakable]
+====
+poignant
+
+Evoking a keen sense of sadness or regret.
+====
+
+[%unbreakable]
+====
+leotards
+
+A close-fitting one-piece garment.
+====
+
+[%unbreakable]
+====
+uncouth
+
+Lacking good manners.
+====
+
+[%unbreakable]
+====
+kanly
+
+A prolonged dispute or vendetta.
+====
+
+[%unbreakable]
+====
+vendetta
+
+A prolonged fights between groups.
+====
+
+include::../../terminology/mentat.adoc[]
+
+[%unbreakable]
+====
+grimace
+
+An ugly, twisted expression on a person's face.
+====
+
+[%unbreakable]
+====
+waggish
+
+Mischievous.
+====
+
+[%unbreakable]
+====
+flux
+
+Process of flowing.
+====
+
+[%unbreakable]
+====
+Enfin
+
+Finally in French.
+====
+
+[%unbreakable]
+====
+caricature
+
+A picture of a person showing some exaggerated features.
+====
+
+[%unbreakable]
+====
+subservient
+
+Prepared to obey others without question.
+====
+
+[%unbreakable]
+====
+pliant
+
+Flexible.
+====
+
+[%unbreakable]
+====
+kindjal
+
+A short dagger.
+====
+
+[%unbreakable]
+====
+encompass
+
+To cause.
+====
+
+[%unbreakable]
+====
+pillage
+
+To steal.
+====
+
+include::../../terminology/bashar.adoc[]
+
+[%unbreakable]
+====
+corps
+
+A division of an army.
+====
+
+[%unbreakable]
+====
+mincing
+
+Small.
+====
+
+[%unbreakable]
+====
+consort
+
+A wife or husband.
+====
+
+[%unbreakable]
+====
+Barony
+
+The area of land owned by a noble person.
+====
+
+[%unbreakable]
+====
+sullen
+
+Bad-tempered and sulky.
+====
+
+[%unbreakable]
+====
+belched
+
+Noisily expelled air from the mouth.
+====
+
+[%unbreakable]
+====
+tangential
+
+Slightly related.
+====
+
+[%unbreakable]
+====
+renegade
+
+Betraying one's own group.
+====
+
+[%unbreakable]
+====
+atomics
+
+Nuclear weapons.
+====
+
+[%unbreakable]
+====
+accursed
+
+Express a strong dislike or anger towards someone.
+====
+
+[%unbreakable]
+====
+subvert
+
+To make weaker.
+====
+
+[%unbreakable]
+====
+audacity
+
+Ability to take bold risks.
+====
+
+[%unbreakable]
+====
+sublime
+
+Extreme beauty worthy of admiration.
+====
+
+[%unbreakable]
+====
+garrison
+
+A body of troops stationed in a fortified place.
+====
+
+[%unbreakable]
+====
+legions
+
+A division of an army.
+====
+
+[%unbreakable]
+====
+livery
+
+A special uniform.
+====
+
+[%unbreakable]
+====
+coffers
+
+Safe for holding valuables.
+====
+
+[%unbreakable]
+====
+subfief
+
+Rights to a land.
+====
+
+[%unbreakable]
+====
+mongrel
+
+A person of low social status.
+====
+
+[%unbreakable]
+====
+beringed
+
+To be covered with rings.
+====
+

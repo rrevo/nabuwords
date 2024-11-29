@@ -1,0 +1,95 @@
+
+== Chapter 40
+
+[%unbreakable]
+====
+palanquin
+
+A container to carry someone important.
+====
+
+[%unbreakable]
+====
+razzia
+
+A hostile raid.
+====
+
+[%unbreakable]
+====
+similitudes
+
+Being similar.
+====
+
+[%unbreakable]
+====
+precipice
+
+A very steep cliff.
+====
+
+[%unbreakable]
+====
+circumcision
+
+A religious practice.
+====
+
+[%unbreakable]
+====
+palmaries
+
+A place of worship.
+====
+
+[%unbreakable]
+====
+chanty
+
+A song.
+====
+
+[%unbreakable]
+====
+goad
+
+Driver.
+====
+
+[%unbreakable]
+====
+chided
+
+Scolded.
+====
+
+[%unbreakable]
+====
+situ
+
+A place.
+====
+
+[%unbreakable]
+====
+exorcise
+
+To drive out evil spirits.
+====
+
+[%unbreakable]
+====
+abashed
+
+Embarrassed.
+====
+
+include::../../terminology/hajj.adoc[]
+
+[%unbreakable]
+====
+warrens
+
+A privileged area.
+====

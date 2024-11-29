@@ -6,4 +6,9 @@ ASCIIDOCTOR := asciidoctor
 RELEASE_DIR := ../../releases
 
 build_pdf:
-	$(ASCIIDOCTOR) -r asciidoctor-pdf -b pdf -D ${RELEASE_DIR} dune.adoc
+	$(ASCIIDOCTOR) -r asciidoctor-pdf \
+		-b pdf \
+		-D ${RELEASE_DIR} \
+		-a pdf-theme=my \
+		-a pdf-themesdir=resources \
+		dune.adoc

@@ -1,0 +1,239 @@
+
+== Chapter 1
+
+[%unbreakable]
+====
+crone
+
+A evil-looking old woman.
+====
+
+[%unbreakable]
+====
+suspensor lamp
+
+A glowing light source that is suspended in the air.
+====
+
+[%unbreakable]
+====
+wheezed
+
+To breathe in a loud hard way.
+====
+
+include::../../terminology/baliset.adoc[]
+
+[%unbreakable]
+====
+contralto
+
+A low female (singing) voice.
+====
+
+[%unbreakable]
+====
+wench
+
+a woman servant.
+====
+
+[%unbreakable]
+====
+concubine
+
+A woman who lives with a man, but who is not a wife.
+====
+
+[%unbreakable]
+====
+ducal
+
+Relating to a man of high rank.
+====
+
+[%unbreakable]
+====
+fief
+
+Land held by a superior, particularly on condition of providing military service.
+====
+
+[%unbreakable]
+====
+geriatric
+
+Relating to medicine particularly concerned with old age.
+====
+
+[%unbreakable]
+====
+melange
+
+Mixture or blend.
+====
+
+[%unbreakable]
+====
+faufreluches
+
+Class system for different people in society.
+====
+
+[%unbreakable]
+====
+caid
+
+An officer of the Sardaukar (military force).
+====
+
+include::../../terminology/bashar.adoc[]
+
+[%unbreakable]
+====
+aortal
+
+Of or relating to the aorta which carries blood from the heart to most of the body.
+====
+
+[%unbreakable]
+====
+minutiae
+
+Small or minor details.
+====
+
+[%unbreakable]
+====
+Truthsayer
+
+Anyone who can detect truth when it is being told.
+====
+
+[%unbreakable]
+====
+tapestried
+
+Covered with handwoven fabric designs.
+====
+
+[%unbreakable]
+====
+petulant
+
+Childishly sulky or bad-tempered.
+====
+
+[%unbreakable]
+====
+abominable
+
+Very bad or unpleasant.
+====
+
+[%unbreakable]
+====
+curtsy
+
+Act of respect by slightly bending the knees.
+====
+
+[%unbreakable]
+====
+gestalten
+
+Something that is made of many parts and yet different.
+====
+
+[%unbreakable]
+====
+bravura
+
+Display of a great skill needing courage.
+====
+
+[%unbreakable]
+====
+enjoin
+
+To instruct someone to do something.
+====
+
+[%unbreakable]
+====
+Litany
+
+A recital of prayers.
+====
+
+[%unbreakable]
+====
+sirra
+
+To address someone with disrespect or inferiority.
+====
+
+[%unbreakable]
+====
+feigning
+
+To pretend.
+====
+
+[%unbreakable]
+====
+Kull wahad
+
+An exclamation that means "I am extremely stirred".
+====
+
+[%unbreakable]
+====
+void
+
+An empty space.
+====
+
+[%unbreakable]
+====
+volition
+
+Power of using one's will.
+====
+
+[%unbreakable]
+====
+maiming
+
+To injure someone so that part of their body is permanently damaged.
+====
+
+[%unbreakable]
+====
+sift
+
+Put through a sieve to remove large particles.
+====
+
+[%unbreakable]
+====
+tangential
+
+Diverging from the previous course.
+====
+
+[%unbreakable]
+====
+counterfeit
+
+An imitation intended to be passed off as genuine.
+====
+
+include::../../terminology/mentat.adoc[]
+
+[%unbreakable]
+====
+trait
+
+A distinguishing quality or characteristic.
+====

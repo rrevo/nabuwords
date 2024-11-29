@@ -1,0 +1,165 @@
+
+== Chapter 6
+
+[%unbreakable]
+====
+armorial
+
+Visual design on a shield.
+====
+
+[%unbreakable]
+====
+patina
+
+A surface appearance of an object formed due to age or use.
+====
+
+[%unbreakable]
+====
+vapors
+
+A feeling of nervousness.
+====
+
+[%unbreakable]
+====
+leavened
+
+To make something lighter.
+====
+
+[%unbreakable]
+====
+prosaic
+
+Ordinary or common.
+====
+
+[%unbreakable]
+====
+pauperize
+
+To make someone poor.
+====
+
+[%unbreakable]
+====
+flagrant
+
+Obvious and offensive.
+====
+
+[%unbreakable]
+====
+feint
+
+A deception or trick.
+====
+
+[%unbreakable]
+====
+convene
+
+To come together.
+====
+
+[%unbreakable]
+====
+gainsay
+
+To disagree.
+====
+
+[%unbreakable]
+====
+livery
+
+A special uniform.
+====
+
+[%unbreakable]
+====
+levies
+
+Imposed taxes.
+====
+
+[%unbreakable]
+====
+cadres
+
+A group of people.
+====
+
+[%unbreakable]
+====
+levies
+
+Imposed taxes.
+====
+
+[%unbreakable]
+====
+covenant
+
+A formal agreement.
+====
+
+[%unbreakable]
+====
+esprit
+
+A lively spirit.
+====
+
+[%unbreakable]
+====
+revelation
+
+An unexpected and surprising incident.
+====
+
+[%unbreakable]
+====
+corps
+
+A group of people.
+====
+
+[%unbreakable]
+====
+sneered
+
+To show a lack of respect.
+====
+
+include::../../terminology/heighliner.adoc[]
+
+[%unbreakable]
+====
+frigates
+
+Warships.
+====
+
+[%unbreakable]
+====
+manifest
+
+A list of items.
+====
+
+[%unbreakable]
+====
+Guildsman
+
+A navigator in Dune. They lived in antigravity tanks and consumer high concentrations of spice gas.
+====
+
+[%unbreakable]
+====
+mnemonics
+
+A tool or system to help remember things.
+====

@@ -1,0 +1,139 @@
+
+== Chapter 32
+
+[%unbreakable]
+====
+tapestry
+
+Covered with handwoven fabric designs.
+====
+
+[%unbreakable]
+====
+cleft
+
+A split.
+====
+
+[%unbreakable]
+====
+sirat
+
+A path.
+====
+
+[%unbreakable]
+====
+morsels
+
+Small pieces of food.
+====
+
+[%unbreakable]
+====
+escarpment
+
+A steep slope.
+====
+
+[%unbreakable]
+====
+besting
+
+To defeat.
+====
+
+[%unbreakable]
+====
+dally
+
+Have a romantic relationship.
+====
+
+[%unbreakable]
+====
+morrow
+
+The next day.
+====
+
+[%unbreakable]
+====
+progeny
+
+Children.
+====
+
+[%unbreakable]
+====
+reed
+
+A weak or impressionable person.
+====
+
+[%unbreakable]
+====
+feline
+
+Cat-like.
+====
+
+include::../../terminology/adab.adoc[]
+
+[%unbreakable]
+====
+intoned
+
+Say in a slow voice.
+====
+
+include::../../terminology/al-lat.adoc[]
+
+[%unbreakable]
+====
+tempest
+
+A storm.
+====
+
+[%unbreakable]
+====
+pestilence
+
+A disease.
+====
+
+[%unbreakable]
+====
+salat
+
+A ritual prayer.
+====
+
+[%unbreakable]
+====
+aloof
+
+Not interested.
+====
+
+[%unbreakable]
+====
+stratum
+
+A layer.
+====
+
+[%unbreakable]
+====
+trinocular
+
+Having three points of view.
+====
+
+[%unbreakable]
+====
+nexus
+
+An important connection point.
+====

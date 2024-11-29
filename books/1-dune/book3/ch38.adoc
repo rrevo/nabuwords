@@ -1,0 +1,151 @@
+
+== Chapter 38
+
+[%unbreakable]
+====
+camaraderie
+
+Friendship.
+====
+
+[%unbreakable]
+====
+allayed
+
+To calm.
+====
+
+[%unbreakable]
+====
+flitting
+
+To move quickly.
+====
+
+[%unbreakable]
+====
+antechamber
+
+A waiting room.
+====
+
+[%unbreakable]
+====
+divan
+
+A long low seat.
+====
+
+[%unbreakable]
+====
+stupor
+
+A daze.
+====
+
+[%unbreakable]
+====
+eerie
+
+Strange.
+====
+
+[%unbreakable]
+====
+narcotic
+
+A drug that makes you sleep.
+====
+
+[%unbreakable]
+====
+wrath
+
+Anger.
+====
+
+[%unbreakable]
+====
+perchance
+
+A small chance.
+====
+
+[%unbreakable]
+====
+blemish
+
+An unwanted mark.
+====
+
+[%unbreakable]
+====
+scurried
+
+To move quickly.
+====
+
+include::../../terminology/cheops.adoc[]
+
+[%unbreakable]
+====
+quavered
+
+To shake.
+====
+
+[%unbreakable]
+====
+carcasses
+
+Dead bodies.
+====
+
+[%unbreakable]
+====
+inscrutable
+
+Hard to understand.
+====
+
+[%unbreakable]
+====
+elation
+
+Happiness.
+====
+
+[%unbreakable]
+====
+obstinate
+
+Stubborn.
+====
+
+[%unbreakable]
+====
+antidote
+
+A cure.
+====
+
+[%unbreakable]
+====
+scabbard
+
+A case for a sword.
+====
+
+[%unbreakable]
+====
+sheathe
+
+To put into a cover.
+====
+
+[%unbreakable]
+====
+feints
+
+Deceptions or tricks.
+====
