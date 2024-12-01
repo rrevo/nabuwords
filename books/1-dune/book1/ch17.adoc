@@ -66,6 +66,13 @@ A musical instrument.
 
 [%unbreakable]
 ====
+rheumy
+
+Watery discharge from the eyes.
+====
+
+[%unbreakable]
+====
 affront
 
 An insult.
@@ -76,6 +83,13 @@ An insult.
 stalemate
 
 A situation where no progress can be made.
+====
+
+[%unbreakable]
+====
+stupefied
+
+To be amazed.
 ====
 
 [%unbreakable]
@@ -136,6 +150,20 @@ To struggle.
 
 [%unbreakable]
 ====
+surrogates
+
+One who takes another's place.
+====
+
+[%unbreakable]
+====
+riposte
+
+A quick reply.
+====
+
+[%unbreakable]
+====
 innuendo
 
 A hint that one has done wrong.
@@ -150,7 +178,21 @@ Happiness and laughter.
 
 [%unbreakable]
 ====
+peremptory
+
+Expecting attention or obedience.
+====
+
+[%unbreakable]
+====
 corrida
 
 Bullfight.
+====
+
+[%unbreakable]
+====
+matador
+
+A bullfighter.
 ====

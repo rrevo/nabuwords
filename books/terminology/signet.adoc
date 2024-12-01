@@ -1,0 +1,6 @@
+[%unbreakable]
+====
+signet
+
+A small seal like a ring.
+====

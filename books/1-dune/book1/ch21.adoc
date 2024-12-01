@@ -10,6 +10,13 @@ A rock from space.
 
 [%unbreakable]
 ====
+viewport
+
+A window.
+====
+
+[%unbreakable]
+====
 jowls
 
 Lower part of a person's cheek.
@@ -17,9 +24,23 @@ Lower part of a person's cheek.
 
 [%unbreakable]
 ====
+forelock
+
+Hair on the front of the head.
+====
+
+[%unbreakable]
+====
 somber
 
 Sad and serious.
+====
+
+[%unbreakable]
+====
+effeminate
+
+Having feminine qualities.
 ====
 
 [%unbreakable]
@@ -38,6 +59,13 @@ A rhythm.
 
 [%unbreakable]
 ====
+foreboding
+
+A feeling that something bad will happen.
+====
+
+[%unbreakable]
+====
 whirled
 
 To spin.
@@ -48,13 +76,6 @@ To spin.
 oak
 
 A tree.
-====
-
-[%unbreakable]
-====
-viewport
-
-A window.
 ====
 
 [%unbreakable]
@@ -71,6 +92,10 @@ precipitately
 Quickly.
 ====
 
+include::../../terminology/basso.adoc[]
+
+include::../../terminology/concubine.adoc[]
+
 [%unbreakable]
 ====
 sired
@@ -83,6 +108,13 @@ To become the father of.
 steeple
 
 A tall church tower.
+====
+
+[%unbreakable]
+====
+cher
+
+French for "dear".
 ====
 
 [%unbreakable]
@@ -122,6 +154,13 @@ Cut into pieces.
 
 [%unbreakable]
 ====
+strata
+
+Layers.
+====
+
+[%unbreakable]
+====
 metronome
 
 A tool to keep time by playing a beat.
@@ -143,6 +182,13 @@ Servants.
 
 [%unbreakable]
 ====
+frigate
+
+Small and fast military ships.
+====
+
+[%unbreakable]
+====
 legion
 
 A large group.
@@ -150,9 +196,30 @@ A large group.
 
 [%unbreakable]
 ====
+feigned
+
+To pretend.
+====
+
+[%unbreakable]
+====
+exasperation
+
+State of being upset.
+====
+
+[%unbreakable]
+====
 remnants
 
 Remaining parts.
+====
+
+[%unbreakable]
+====
+obsidian
+
+A black rock.
 ====
 
 [%unbreakable]

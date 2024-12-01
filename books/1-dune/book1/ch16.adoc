@@ -94,9 +94,9 @@ One who is not happy or lucky.
 
 [%unbreakable]
 ====
-escort agency
+escort
 
-prostitution service.
+prostitution
 ====
 
 [%unbreakable]
@@ -118,6 +118,20 @@ Blame.
 pretext
 
 A false reason.
+====
+
+[%unbreakable]
+====
+fawning
+
+To flatter.
+====
+
+[%unbreakable]
+====
+richece
+
+A rich person.
 ====
 
 [%unbreakable]
@@ -180,7 +194,7 @@ Flirtatious behavior.
 ====
 surrogate
 
-A substitute person.
+One who takes another's place.
 ====
 
 [%unbreakable]
@@ -188,6 +202,13 @@ A substitute person.
 aloft
 
 In the air.
+====
+
+[%unbreakable]
+====
+Chevalier
+
+A knight.
 ====
 
 [%unbreakable]
@@ -213,10 +234,33 @@ A short statement.
 
 [%unbreakable]
 ====
+alcove
+
+A small section in a room.
+====
+
+[%unbreakable]
+====
+wafted
+
+Carried through the air.
+====
+
+[%unbreakable]
+====
+austere
+
+Simple.
+====
+
+[%unbreakable]
+====
 scarecrow
 
 A figure to scare birds.
 ====
+
+include::../../terminology/intoned.adoc[]
 
 [%unbreakable]
 ====
@@ -304,6 +348,13 @@ Embarrassment.
 
 [%unbreakable]
 ====
+accord
+
+Agreement.
+====
+
+[%unbreakable]
+====
 offhand
 
 Done without thought.
@@ -343,3 +394,5 @@ gambit
 
 A plan.
 ====
+
+include::../../terminology/kanly.adoc[]

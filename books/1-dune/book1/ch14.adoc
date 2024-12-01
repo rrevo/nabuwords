@@ -17,6 +17,13 @@ A quarter of a circle.
 
 [%unbreakable]
 ====
+sham
+
+A lie.
+====
+
+[%unbreakable]
+====
 cozened
 
 To trick.
@@ -41,6 +48,13 @@ To cause pain.
 bravura
 
 Display of a great skill needing courage.
+====
+
+[%unbreakable]
+====
+renegade
+
+One that breaks rules and causes trouble.
 ====
 
 [%unbreakable]

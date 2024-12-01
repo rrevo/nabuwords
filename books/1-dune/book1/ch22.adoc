@@ -10,9 +10,23 @@ A fortress.
 
 [%unbreakable]
 ====
+stilltent
+
+Fictional specialized tent to sleep under a layer of sand.
+====
+
+[%unbreakable]
+====
 gall
 
 Make angry.
+====
+
+[%unbreakable]
+====
+impotent
+
+Unable to take action.
 ====
 
 [%unbreakable]
@@ -22,11 +36,20 @@ minutiae
 Small details.
 ====
 
+include::../../terminology/signet.adoc[]
+
 [%unbreakable]
 ====
 datum
 
 Single piece of information.
+====
+
+[%unbreakable]
+====
+pervaded
+
+Spread throughout.
 ====
 
 [%unbreakable]
@@ -38,10 +61,26 @@ Outline of a shape.
 
 [%unbreakable]
 ====
+communinet
+
+Fictional communications network.
+====
+
+[%unbreakable]
+====
 exultation
 
 A feeling of joy.
 ====
+
+[%unbreakable]
+====
+literjons
+
+Fictional unit of measurement.
+====
+
+include::../../terminology/escarpment.adoc[]
 
 [%unbreakable]
 ====
@@ -50,13 +89,41 @@ sphincter
 Opening.
 ====
 
+[%unbreakable]
+====
+insinuated
+
+Slowly introduced.
+====
+
+[%unbreakable]
+====
+flyleaf
+
+Page at the beginning of a book.
+====
+
 include::../../terminology/al-lat.adoc[]
+
+[%unbreakable]
+====
+paracompass
+
+Fictional device to navigate in the desert.
+====
 
 [%unbreakable]
 ====
 constellation
 
 A group of stars.
+====
+
+[%unbreakable]
+====
+entrails
+
+Internal organs.
 ====
 
 [%unbreakable]
@@ -89,9 +156,23 @@ Harmful in a subtle way.
 
 [%unbreakable]
 ====
+artifice
+
+Clever trick.
+====
+
+[%unbreakable]
+====
 broodmare
 
 Female horse used for breeding.
+====
+
+[%unbreakable]
+====
+prescient
+
+Having an ability to predict.
 ====
 
 [%unbreakable]
@@ -106,4 +187,11 @@ Hardened skin.
 jihad
 
 Holy war.
+====
+
+[%unbreakable]
+====
+patrician
+
+Member of the highest social class.
 ====

@@ -10,6 +10,13 @@ A device that projects video.
 
 [%unbreakable]
 ====
+rachag
+
+Caffeine like stimulant from berries.
+====
+
+[%unbreakable]
+====
 wafted
 
 Carried by the wind.
@@ -21,6 +28,8 @@ incidental
 
 Happening as a minor part.
 ====
+
+include::../../terminology/sietch.adoc[]
 
 [%unbreakable]
 ====
@@ -38,9 +47,27 @@ A tax.
 
 [%unbreakable]
 ====
+graft
+
+Bribes.
+====
+
+[%unbreakable]
+====
 heretofore
 
 Until now.
+====
+
+include::../../terminology/carryall.adoc[]
+
+include::../../terminology/ornithopter.adoc[]
+
+[%unbreakable]
+====
+nought
+
+Nothing.
 ====
 
 [%unbreakable]
@@ -57,7 +84,12 @@ frenzy
 Wild excitement.
 ====
 
-include::../../terminology/carryall.adoc[]
+[%unbreakable]
+====
+shire
+
+A large horse.
+====
 
 [%unbreakable]
 ====
@@ -82,17 +114,19 @@ Watery discharge from the eyes.
 
 [%unbreakable]
 ====
+propertied
+
+Owning property.
+====
+
+[%unbreakable]
+====
 carmine
 
 A deep red color.
 ====
 
-[%unbreakable]
-====
-kanly
-
-A prolonged dispute or vendetta.
-====
+include::../../terminology/kanly.adoc[]
 
 [%unbreakable]
 ====
@@ -103,9 +137,23 @@ Cat like.
 
 [%unbreakable]
 ====
+serenity
+
+Peaceful.
+====
+
+[%unbreakable]
+====
 waylaid
 
 To stop someone.
+====
+
+[%unbreakable]
+====
+tunic
+
+Loose clothing.
 ====
 
 [%unbreakable]
@@ -152,6 +200,13 @@ Loyalty.
 
 [%unbreakable]
 ====
+precedent
+
+A previous example.
+====
+
+[%unbreakable]
+====
 mercenaries
 
 A soldier for hire.
@@ -192,12 +247,7 @@ smuggler
 A person who trades illegally.
 ====
 
-[%unbreakable]
-====
-intoned
-
-Say in a slow voice.
-====
+include::../../terminology/intoned.adoc[]
 
 [%unbreakable]
 ====

@@ -119,12 +119,7 @@ bodkins
 A small sharp knife.
 ====
 
-[%unbreakable]
-====
-kindjals
-
-Double-edged dagger.
-====
+include::../../terminology/kindjal.adoc[]
 
 [%unbreakable]
 ====
@@ -182,12 +177,7 @@ dolt
 A silly person.
 ====
 
-[%unbreakable]
-====
-intoned
-
-Say in a slow voice.
-====
+include::../../terminology/intoned.adoc[]
 
 [%unbreakable]
 ====

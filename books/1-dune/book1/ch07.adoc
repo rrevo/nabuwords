@@ -183,12 +183,7 @@ prune
 A dried plum.
 ====
 
-[%unbreakable]
-====
-concubine
-
-A woman who lives with a man, but who is not a wife.
-====
+include::../../terminology/concubine.adoc[]
 
 [%unbreakable]
 ====
@@ -232,12 +227,7 @@ sheath
 Cover for a knife.
 ====
 
-[%unbreakable]
-====
-kindjal
-
-A short dagger.
-====
+include::../../terminology/kindjal.adoc[]
 
 include::../../terminology/crysknife.adoc[]
 

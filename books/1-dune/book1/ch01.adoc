@@ -38,19 +38,9 @@ wench
 a woman servant.
 ====
 
-[%unbreakable]
-====
-concubine
+include::../../terminology/concubine.adoc[]
 
-A woman who lives with a man, but who is not a wife.
-====
-
-[%unbreakable]
-====
-ducal
-
-Relating to a man of high rank.
-====
+include::../../terminology/ducal.adoc[]
 
 [%unbreakable]
 ====
@@ -73,12 +63,7 @@ melange
 Mixture or blend.
 ====
 
-[%unbreakable]
-====
-faufreluches
-
-Class system for different people in society.
-====
+include::../../terminology/faufreluches.adoc[]
 
 [%unbreakable]
 ====

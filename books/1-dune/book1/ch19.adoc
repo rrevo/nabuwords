@@ -10,6 +10,15 @@ A feeling about the future.
 
 [%unbreakable]
 ====
+raspings
+
+A rough sound.
+====
+
+include::../../terminology/basso.adoc[]
+
+[%unbreakable]
+====
 cherubic
 
 Having a sweet face.
@@ -45,6 +54,13 @@ A ruled territory.
 
 [%unbreakable]
 ====
+wail
+
+A loud cry.
+====
+
+[%unbreakable]
+====
 rancor
 
 A feeling of hate.
@@ -55,6 +71,13 @@ A feeling of hate.
 abeyance
 
 A temporary stop.
+====
+
+[%unbreakable]
+====
+liaison
+
+A connection.
 ====
 
 [%unbreakable]
@@ -87,6 +110,20 @@ The quality of a sound.
 
 [%unbreakable]
 ====
+writhed
+
+Twisted.
+====
+
+[%unbreakable]
+====
+sinuously
+
+Having many twists.
+====
+
+[%unbreakable]
+====
 sternum
 
 A bone in the chest.
@@ -94,7 +131,7 @@ A bone in the chest.
 
 [%unbreakable]
 ====
-diagphragm
+diaphragm
 
 A muscle in the chest.
 ====

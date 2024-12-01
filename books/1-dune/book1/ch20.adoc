@@ -1,7 +1,16 @@
 
 == Chapter 20
 
+include::../../terminology/sardaukar.adoc[]
+
 include::../../terminology/bashar.adoc[]
+
+[%unbreakable]
+====
+surety
+
+A guarantee.
+====
 
 [%unbreakable]
 ====
@@ -16,6 +25,10 @@ foretaste
 
 A taste of something to come.
 ====
+
+include::../../terminology/ducal.adoc[]
+
+include::../../terminology/signet.adoc[]
 
 [%unbreakable]
 ====

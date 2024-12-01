@@ -29,6 +29,8 @@ latitude
 Open for interpretation.
 ====
 
+include::../../terminology/ornithopter.adoc[]
+
 [%unbreakable]
 ====
 somnolent
@@ -64,11 +66,20 @@ garbed
 Dressed in a specific way.
 ====
 
+include::../../terminology/ducal.adoc[]
+
 [%unbreakable]
 ====
 brooks
 
 tolerate.
+====
+
+[%unbreakable]
+====
+arbiter
+
+A person who decides.
 ====
 
 [%unbreakable]
@@ -187,10 +198,21 @@ Move as a large cloud.
 
 [%unbreakable]
 ====
+banked
+
+To tilt.
+====
+
+[%unbreakable]
+====
 sash
 
 A long piece of cloth.
 ====
+
+include::../../terminology/baliset.adoc[]
+
+include::../../terminology/manna.adoc[]
 
 [%unbreakable]
 ====
@@ -275,7 +297,7 @@ Top of.
 ====
 intercept
 
-To stop something.
+To stop and take control of.
 ====
 
 [%unbreakable]
@@ -374,6 +396,13 @@ Dead and decaying flesh.
 carcass
 
 Body of a dead animal.
+====
+
+[%unbreakable]
+====
+abashed
+
+Embarrassed.
 ====
 
 [%unbreakable]

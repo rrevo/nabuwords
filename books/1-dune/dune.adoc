@@ -1,6 +1,6 @@
 =  Dune reference
 Nabu words
-Nov 16 2024: v2.2
+Dec 1 2024: v2.22
 :doctype: book
 :toc:
 :pdf-page-size: [4in, 7in]

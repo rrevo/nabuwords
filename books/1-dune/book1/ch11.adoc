@@ -3,6 +3,13 @@
 
 [%unbreakable]
 ====
+hoodwinked
+
+To trick someone.
+====
+
+[%unbreakable]
+====
 parapet
 
 A low wall.
@@ -24,6 +31,27 @@ Silly and pointless.
 
 [%unbreakable]
 ====
+galling
+
+Cause anger or annoyance.
+====
+
+[%unbreakable]
+====
+frigates
+
+Small and fast military ships.
+====
+
+[%unbreakable]
+====
+decadent
+
+Having low morals or a lack of self-control.
+====
+
+[%unbreakable]
+====
 disdainful
 
 Feeling strong dislike.
@@ -36,12 +64,9 @@ allusions
 An indirect reference.
 ====
 
-[%unbreakable]
-====
-faufreluches
+include::../../terminology/faufreluches.adoc[]
 
-A type of clothing.
-====
+include::../../terminology/baliset.adoc[]
 
 [%unbreakable]
 ====
@@ -62,6 +87,13 @@ A small section of a room.
 commandant
 
 A military officer.
+====
+
+[%unbreakable]
+====
+pretext
+
+A reason given to hide the real reason.
 ====
 
 [%unbreakable]

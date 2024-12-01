@@ -1,19 +1,9 @@
 
 == Chapter 10
 
-[%unbreakable]
-====
-ducal
+include::../../terminology/ducal.adoc[]
 
-Relating to a man of high rank.
-====
-
-[%unbreakable]
-====
-signet
-
-A small seal like a ring.
-====
+include::../../terminology/signet.adoc[]
 
 [%unbreakable]
 ====

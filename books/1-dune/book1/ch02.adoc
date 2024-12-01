@@ -35,12 +35,7 @@ effeminate
 Having feminine characteristics.
 ====
 
-[%unbreakable]
-====
-basso
-
-A low deep male voice.
-====
+include::../../terminology/basso.adoc[]
 
 [%unbreakable]
 ====
@@ -70,12 +65,7 @@ uncouth
 Lacking good manners.
 ====
 
-[%unbreakable]
-====
-kanly
-
-A prolonged dispute or vendetta.
-====
+include::../../terminology/kanly.adoc[]
 
 [%unbreakable]
 ====
@@ -135,12 +125,7 @@ pliant
 Flexible.
 ====
 
-[%unbreakable]
-====
-kindjal
-
-A short dagger.
-====
+include::../../terminology/kindjal.adoc[]
 
 [%unbreakable]
 ====

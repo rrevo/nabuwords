@@ -1,0 +1,15 @@
+{
+  "word meaning": {
+    "scope": "asciidoc",
+    "prefix": "w",
+    "body": ["[%unbreakable]", "====", "$1", "", "$2", "===="],
+
+    "description": "Word meaning"
+  },
+  "word in": {
+    "scope": "asciidoc",
+    "prefix": "wi",
+    "body": ["include::../../terminology/$1.adoc[]"],
+    "description": "Include word meaning"
+  }
+}

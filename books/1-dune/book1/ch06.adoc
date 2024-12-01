@@ -140,7 +140,7 @@ include::../../terminology/heighliner.adoc[]
 ====
 frigates
 
-Warships.
+Small and fast military ships.
 ====
 
 [%unbreakable]

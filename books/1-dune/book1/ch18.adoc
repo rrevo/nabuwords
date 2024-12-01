@@ -3,10 +3,40 @@
 
 [%unbreakable]
 ====
+tarried
+
+To be slow.
+====
+
+[%unbreakable]
+====
+trifles
+
+Small things.
+====
+
+[%unbreakable]
+====
+dirge
+
+A song of mourning.
+====
+
+[%unbreakable]
+====
 foyer
 
 Open area near the entrance.
 ====
+
+[%unbreakable]
+====
+mewling
+
+To cry in a weak way.
+====
+
+include::../../terminology/kindjal.adoc[]
 
 [%unbreakable]
 ====
